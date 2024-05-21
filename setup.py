@@ -27,5 +27,5 @@ new features `lru_cache` (Least-recently-used cache decorator).""",
     )
 
 
-#if __name__ == '__main__':
-    # main()
+if __name__ == '__main__':
+    main()
